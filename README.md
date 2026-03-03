@@ -12,14 +12,11 @@ I am an Honors student in the Accelerated Master of Science in Management Inform
 - **Enterprise Strategy**: Optimizing global data systems and secure workflows for organizations spanning 30 plus countries.
 
 <p align="center">
-  <a href="https://emilyrgarcia.com/index.html" target="_blank" style="display:inline-block;padding:10px 18px;margin:4px;border-radius:999px;background:#A855F7;color:#ffffff;font-weight:600;text-decoration:none;">
-    Portfolio
+  <a href="https://emilyrgarcia.com/index.html" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-A855F7?style=for-the-badge&logo=aboutdotme&logoColor=white" alt="Portfolio button">
   </a>
-  <a href="./EmilyGarciaResume.pdf" target="_blank" style="display:inline-block;padding:10px 18px;margin:4px;border-radius:999px;background:#A855F7;color:#ffffff;font-weight:600;text-decoration:none;">
-    Resume
-  </a>
-  <a href="https://www.linkedin.com/in/emily-garcia1/" target="_blank" style="display:inline-block;padding:10px 18px;margin:4px;border-radius:999px;background:#A855F7;color:#ffffff;font-weight:600;text-decoration:none;">
-    LinkedIn
+  <a href="https://www.linkedin.com/in/emily-garcia1/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-A855F7?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn button">
   </a>
 </p>
 
